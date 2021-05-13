@@ -1,2 +1,2 @@
-# ChecklistCategories
-Repo to store the category data for SWMChecklist
+# Staged Changes
+Repo to store changes from work
